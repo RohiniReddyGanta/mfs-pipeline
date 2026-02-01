@@ -1,1 +1,24 @@
-
+{
+  "name": "calypso-mfs",
+  "version": "1.0.0",
+  "description": "Calypso MFS DevOps Pipeline Project",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^4.22.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RohiniReddyGanta/mfs-pipeline.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RohiniReddyGanta/mfs-pipeline/issues"
+  },
+  "homepage": "https://github.com/RohiniReddyGanta/mfs-pipeline#readme"
+}
